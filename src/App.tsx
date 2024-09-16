@@ -1,15 +1,7 @@
-
-import './App.css'
+import "./App.css";
 
 function App() {
- 
-
-  return (
-    <>
-    Maps api practise 
-    
-    </>
-  )
+  return <>Maps api practice</>;
 }
 
-export default App
+export default App;
